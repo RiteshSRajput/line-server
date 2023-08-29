@@ -1,0 +1,20 @@
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/RegisterCredentialBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.RegisterCredentialBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/ServerPublicKeyCredentialUserEntityBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.ServerPublicKeyCredentialUserEntityBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/RegOptionRequestBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.RegOptionRequestBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/BeanValidationTestSupport.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.BeanValidationTestSupport
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/ServerAuthPublicKeyCredentialBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.ServerAuthPublicKeyCredentialBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/VerifyCredentialBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.VerifyCredentialBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/ServerRegPublicKeyCredentialBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.ServerRegPublicKeyCredentialBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/ServerAuthenticatorAssertionResponseBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.ServerAuthenticatorAssertionResponseBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/AuthOptionRequestBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.AuthOptionRequestBeanValidationTest
+com/linecorp/line/auth/fido/fido2/common/server/bean/validation/ServerAuthenticatorAttestationResponseBeanValidationTest.java
+ com.linecorp.line.auth.fido.fido2.common.server.bean.validation.ServerAuthenticatorAttestationResponseBeanValidationTest

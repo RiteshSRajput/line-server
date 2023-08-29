@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.linecorp.line.auth.fido.fido2.common.server.bean.validation.RegOptionRequestBeanValidationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-29T09:42:48" hostname="ech-10-157-131-66" time="0.062">
+  <properties/>
+  <testcase name="validateIncompleteRequestWithNull()" classname="com.linecorp.line.auth.fido.fido2.common.server.bean.validation.RegOptionRequestBeanValidationTest" time="0.045"/>
+  <testcase name="validateSuccessfulRequest()" classname="com.linecorp.line.auth.fido.fido2.common.server.bean.validation.RegOptionRequestBeanValidationTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.linecorp.line.auth.fido.fido2.common.server.bean.validation.AuthOptionRequestBeanValidationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-29T09:42:47" hostname="ech-10-157-131-66" time="0.173">
+  <properties/>
+  <testcase name="validateSuccessfulRequest()" classname="com.linecorp.line.auth.fido.fido2.common.server.bean.validation.AuthOptionRequestBeanValidationTest" time="0.15"/>
+  <testcase name="validateIncompleteRequestWithBlank()" classname="com.linecorp.line.auth.fido.fido2.common.server.bean.validation.AuthOptionRequestBeanValidationTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 29, 2023 4:42:47 AM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.2.0.Final
+]]></system-err>
+</testsuite>
